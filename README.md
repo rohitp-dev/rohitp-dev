@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitp-dev
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Something Crazy Stuff
 - 📫 How to reach me instagram(rohitpahuja_)
 
 <!---
